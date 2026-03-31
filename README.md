@@ -1,7 +1,5 @@
 # Dream Application – Park Pal
 
-Final Unit 0 project demonstrating JavaScript fundamentals through a Dream Application concept.
-
 This project demonstrates foundational JavaScript skills through a “Dream Application” concept.
 
 ## 📄 Google Doc
