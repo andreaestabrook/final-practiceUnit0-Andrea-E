@@ -2,7 +2,7 @@
 
 Final Unit 0 project demonstrating JavaScript fundamentals through a Dream Application concept.
 
-This project is my Unit 0 Final Practice assignment demonstrating foundational JavaScript skills through a “Dream Application” concept.
+This project demonstrates foundational JavaScript skills through a “Dream Application” concept.
 
 ## 📄 Google Doc
 [View my completed worksheet](https://docs.google.com/document/d/1ppmOSPATuIGwujBEeI1UU8s0f137NP0LSj2-KDuKdBE/edit?usp=sharing)
@@ -22,11 +22,11 @@ This project includes examples of the following JavaScript fundamentals:
 - Variables, data types, and operations
 - String manipulation
 - Control structures and logic
-- Arrays and array methods (`map`, `filter`, `find`, etc.)
+- Arrays and array methods (`map`, `filter`, `find`, `reduce`, etc.)
 - Objects and structured data
 
 ## 📁 Project Structure
-- `app.js` – Contains example code demonstrating key concepts from Unit 0
+- `park-pal.js` – Contains example code demonstrating key concepts from Unit 0
 
 ## 🚀 Purpose
 The purpose of this project is to apply foundational programming concepts in a practical way and demonstrate readiness to move forward in the program.
