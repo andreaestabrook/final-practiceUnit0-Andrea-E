@@ -74,3 +74,10 @@ console.log("Accessible rides:", accessibleRides);
 // Map ride names for display
 let rideNames = rides.map(ride => ride.name);
 console.log("Ride names:", rideNames);
+
+// ------------------------------
+// Using reduce()
+// Calculate total wait time for all rides
+let totalWaitTime = rides.reduce((total, ride) => total + ride.waitTime, 0);
+
+console.log("Total wait time:", totalWaitTime);
