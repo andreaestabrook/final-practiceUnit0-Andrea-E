@@ -5,6 +5,9 @@ This project demonstrates foundational JavaScript skills through a “Dream Appl
 ## 📄 Google Doc
 [View my completed worksheet](https://docs.google.com/document/d/1ppmOSPATuIGwujBEeI1UU8s0f137NP0LSj2-KDuKdBE/edit?usp=sharing)
 
+## 📁 LaunchCode Class Folder
+[View my LaunchCode Google Drive folder](https://drive.google.com/drive/folders/1iXimkL8nYWKvX4oU_xHxDjBaWupHMUj2?usp=sharing)
+
 ## 💡 Application Idea
 **Park Pal** is a theme park planning app designed to help guests organize their day. Users can track attractions, view wait times, save favorite rides, and receive recommendations based on their preferences such as thrill level and accessibility needs.
 
